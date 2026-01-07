@@ -5,3 +5,5 @@
   > <b>attributes</b> : anything define and associated within the tags for extra features or functionalities.
 
 - Demonstrated a gist for Zerodha landing page, the same instead of zerodha done for the phone pe
+
+![alt text](image.png)

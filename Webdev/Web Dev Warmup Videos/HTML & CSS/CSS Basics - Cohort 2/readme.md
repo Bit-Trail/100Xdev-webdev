@@ -1,7 +1,8 @@
-# HTML Basics (Tags and Attributes) - Cohort 2
+# CSS
 
-- @harkirat_tw with his 2 jargon of HTML (<b>STRUCTURE / SKELETON OF ANY WEB PAGE </b>)
-  > <b>tags</b> : primitives to create website 
-  > <b>attributes</b> : anything define and associated within the tags for extra features or functionalities.
+- Enables <b>styling</b> of the web <b>page</b>, including colors, font styles, sizes, spacing, and background images
+- Allows precise <b>positioning</b> and <b>layout</b> of <b>HTML elements</b> on the page based on design requirements
 
-- Demonstrated a gist for Zerodha landing page, the same instead of zerodha done for the phone pe
+- A simple PhonePe landing page built using HTML and inline CSS, without using display: flex or grid.
+
+![alt text](image.png)
